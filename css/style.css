@@ -92,6 +92,8 @@ nav a {
     color: white; 
     font-weight: 500; 
     font-family: Arial, Helvetica, sans-serif; 
+    width: 1000px; 
+    margin: 0 auto; 
 }
 .final-list { 
     list-style: none; 
