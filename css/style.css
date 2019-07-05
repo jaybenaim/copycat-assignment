@@ -29,7 +29,6 @@ nav a {
 .image-container { 
     display: flex; 
     justify-content: center; 
-
 }
 .cat-image { 
     width: 500px; 
