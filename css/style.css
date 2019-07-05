@@ -1,0 +1,127 @@
+body { 
+    margin: 0; 
+    padding: 0; 
+}
+header {  
+    background: rgb(79, 199, 147); 
+    height: 80px; 
+}
+.navRight { 
+    margin: 30px auto; 
+    float: right;
+    font-size: 24px; 
+    margin-top: 22px;   
+}
+.logo { 
+    float: left; 
+    margin-left: 10px; 
+    color: white; 
+    text-decoration: none;  
+    font-size: 20px; 
+    font-weight: 900; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+nav a { 
+    padding: 10px;
+    margin-top: 20px; 
+    margin-right: 10px; 
+}
+.image-container { 
+    display: flex; 
+    justify-content: center; 
+
+}
+.cat-image { 
+    width: 500px; 
+    height: 300px; 
+}
+.title-box {
+    width: 500px; 
+    height: 300px; 
+    background-color: rgb(55, 78, 116); 
+    margin-bottom: 0; 
+}
+.title-text { 
+    text-align: center; 
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 10px; 
+}
+.cats-section { 
+    background: rgb(245, 194, 84); 
+    margin-top: 0; 
+    font-family: Arial, Helvetica, sans-serif; 
+    width: 1000px; 
+    margin: 0 auto; 
+}
+.cats-title { 
+    margin-top: 0; 
+    padding-left: 30px; 
+    padding-top: 30px;
+    font-weight: 900; 
+    font-size: 22px;  
+}
+.cats-text { 
+    margin: 30px; 
+    margin-bottom: 0; 
+}
+.product-section { 
+    padding-top: 30px; 
+    background: rgb(230, 230, 230);
+    width: 1000px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 500; 
+    margin: 0 auto; 
+}
+.product-title { 
+    margin-left: 30px; 
+}
+.product-section p { 
+    margin-left: 30px; 
+}
+.product-image { 
+    height: 200px; 
+    width: 200px; 
+    border: 3px solid black;
+    margin-left: 20px;  
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+.final-section { 
+    background: rgb(55, 78, 116); 
+    color: white; 
+    font-weight: 500; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.final-list { 
+    list-style: none; 
+    text-align: center; 
+    display: grid; 
+    grid-template-rows: 1; 
+    grid-template-columns: 33.33% 33.33% 33.33%; 
+    margin-top: 0; 
+}
+.final-list li { 
+    margin-top: 40px; 
+    margin-bottom: 0;
+    color: rgba(249, 58, 24, 0.8); 
+    font-weight: 900; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 24px; 
+}
+.final-p { 
+    padding: 30px; 
+}
+footer {  
+    background: rgb(79, 199, 147); 
+    height: 80px;
+    margin-bottom: 0;   
+}
+footer p { 
+    margin-top: 0; 
+    float: right; 
+    padding: 30px; 
+    font-size: 20px; 
+    margin-bottom: 0; 
+}
+
