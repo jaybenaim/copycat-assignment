@@ -114,10 +114,14 @@ nav a {
     font-family: Arial, Helvetica, sans-serif; 
     font-size: 24px; 
 }
-.final-p p { 
-    padding: 0 30px;
-    margin-top: 5px; 
-    font-size: 21px;  
+.final-p p {
+    font-size: 21px; 
+    margin-bottom: 10px; 
+    padding-left: 30px; 
+}
+.final-p p:nth-child(1) { 
+    padding-top: 30px;
+     
 }
 
 footer {  
