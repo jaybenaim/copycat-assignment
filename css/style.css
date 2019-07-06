@@ -3,7 +3,7 @@ body {
     padding: 0; 
 }
 header {  
-    background: rgb(79, 199, 147); 
+    background: #06D6A0; 
     height: 80px; 
 }
 .navRight { 
@@ -47,7 +47,7 @@ nav a {
     padding: 10px; 
 }
 .cats-section { 
-    background: rgb(245, 194, 84); 
+    background: #FFD166; 
     margin-top: 0; 
     font-family: Arial, Helvetica, sans-serif; 
     width: 1000px; 
@@ -87,7 +87,7 @@ nav a {
     margin-bottom: 20px; 
 }
 .final-section { 
-    background: rgb(55, 78, 116); 
+    background: #26547C; 
     color: white; 
     font-weight: 500; 
     font-family: Arial, Helvetica, sans-serif; 
